@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Rutvij Mavani Banner](https://raw.githubusercontent.com/rutvijmavani/rutvijmavani/main/assets/github_banner.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rutvij</h2>
@@ -61,3 +62,6 @@
 <!--<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>-->
+=======
+
+>>>>>>> 38ce4a635720b48345bccbd37d721ec98317b80f
