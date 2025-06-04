@@ -54,7 +54,7 @@
 
 <p align="center">
 <!--<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/mavanirutvij"><img src="https://img.shields.io/badge/-Rutvij%20Mavani-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mavanirutvij"><img src="https://img.shields.io/badge/-Rutvij%20Mavani-0077B5?style=flat&logo=linkedIn&logoColor=white"/></a>
 <a href="mailto:rutvijmavani@gmail.com"><img src="https://img.shields.io/badge/-rutvijmavani@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ruts_mavani"><img src="https://img.shields.io/badge/-@ruts__mavani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/rutvij.mavani"><img src="https://img.shields.io/badge/-@rutvij.mavani-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
